@@ -1,0 +1,16 @@
+[
+  {
+    "field": false,
+    "valid_pairs": 3,
+    "changed_valid_pairs": 2,
+    "invalid_original": 0,
+    "invalid_modified": 0
+  },
+  {
+    "field": true,
+    "valid_pairs": 3,
+    "changed_valid_pairs": 0,
+    "invalid_original": 0,
+    "invalid_modified": 0
+  }
+]

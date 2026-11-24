@@ -1,0 +1,7 @@
+data/
+models/
+.cache/
+__pycache__/
+.venv/
+.DS_Store
+.ruff_cache/

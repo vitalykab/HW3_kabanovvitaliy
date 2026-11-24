@@ -1,0 +1,65 @@
+{
+  "splits": {
+    "train": {
+      "n": 12000,
+      "labels": {
+        "negative": 4000,
+        "neutral": 4000,
+        "positive": 4000
+      },
+      "empty": 0,
+      "repeated_ids": 0,
+      "repeated_texts": 0
+    },
+    "validation": {
+      "n": 8578,
+      "labels": {
+        "neutral": 2834,
+        "positive": 2892,
+        "negative": 2852
+      },
+      "empty": 0,
+      "repeated_ids": 0,
+      "repeated_texts": 0
+    },
+    "test": {
+      "n": 8578,
+      "labels": {
+        "negative": 2852,
+        "positive": 2892,
+        "neutral": 2834
+      },
+      "empty": 0,
+      "repeated_ids": 0,
+      "repeated_texts": 0
+    }
+  },
+  "overlaps": {
+    "train/validation": {
+      "ids": 0,
+      "texts": 0
+    },
+    "train/test": {
+      "ids": 0,
+      "texts": 0
+    },
+    "validation/test": {
+      "ids": 0,
+      "texts": 0
+    }
+  },
+  "train_words": {
+    "negative": {
+      "median": 15.0,
+      "p95": 66.0
+    },
+    "neutral": {
+      "median": 14.0,
+      "p95": 59.0
+    },
+    "positive": {
+      "median": 14.0,
+      "p95": 52.0
+    }
+  }
+}

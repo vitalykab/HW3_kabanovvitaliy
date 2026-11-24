@@ -1,0 +1,16 @@
+{
+  "validation_macro_f1": {
+    "word": 0.723302714378693,
+    "char": 0.7360250007018859
+  },
+  "selected": "char",
+  "threshold": {
+    "threshold": 0.55,
+    "sent": 2028,
+    "tp": 1648,
+    "fp": 380,
+    "fn": 1204,
+    "precision": 0.8126232741617357,
+    "recall": 0.5778401122019635
+  }
+}

@@ -1,0 +1,4 @@
+id,true,tfidf,bert,llm,тип,разбор
+ru-03168,negative,positive,negative,positive,Тональность,"TF-IDF и Qwen перепутали полярность. У TF-IDF вероятность negative равна 0,336 и отзыв не попал в очередь."
+ru-49699,neutral,neutral,neutral,positive,Тональность,"Обе обученные модели совпали с разметкой. Qwen присвоила positive. JSON валиден, поэтому этот случай входит в обе оценки macro-F1."
+ru-10710,negative,negative,negative,__invalid__,Формат JSON,"Обе обученные модели вернули negative. Ключ и метка в ответе Qwen допустимы, но лишняя закрывающая скобка нарушает JSON. Это FN для negative в основной macro-F1."

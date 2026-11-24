@@ -1,0 +1,19 @@
+{
+  "metrics": {
+    "zero-shot": {
+      "n": 30,
+      "valid": 20,
+      "valid_share": 0.6666666666666666,
+      "macro_all": 0.48663101604278075,
+      "macro_valid": 0.6034858387799564
+    },
+    "few-shot": {
+      "n": 30,
+      "valid": 30,
+      "valid_share": 1.0,
+      "macro_all": 0.6031746031746031,
+      "macro_valid": 0.6031746031746031
+    }
+  },
+  "selected": "few-shot"
+}

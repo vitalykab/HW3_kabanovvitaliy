@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ru-22253",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-43807",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-63885",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-22253",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": true,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-43807",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": true,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-63885",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": true,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-22253",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": true,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-43807",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": true,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-63885",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": true,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-22253",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": true,
+    "modified": true,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-43807",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": true,
+    "modified": true,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-63885",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": true,
+    "modified": true,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  }
+]

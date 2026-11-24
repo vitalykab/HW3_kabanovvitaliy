@@ -1,0 +1,14 @@
+{
+  "history": [
+    {
+      "epoch": 1,
+      "macro_f1": 0.7258039572392333
+    },
+    {
+      "epoch": 2,
+      "macro_f1": 0.7504872300392001
+    }
+  ],
+  "best_epoch": 2,
+  "device": "mps"
+}

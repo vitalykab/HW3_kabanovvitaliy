@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "ru-57377",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-03168",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-32138",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-10298",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-09452",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-58192",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-72870",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-19005",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-71419",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-25533",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-34667",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-34653",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-13663",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-47401",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-60707",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-87809",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-07775",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-12109",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-19664",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-13937",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-23627",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-00520",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-05277",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-04747",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-36195",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-44495",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-32289",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-69873",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-19801",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-08508",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-41393",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-11091",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-28878",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-00242",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-35176",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-83306",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-83116",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-66679",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-87831",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-09863",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-76854",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-32775",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-39170",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-75869",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-04046",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-22712",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-72044",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-44291",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-61390",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-32705",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-69302",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-26847",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-39953",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-20395",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-89639",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-42154",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-89408",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-06284",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-56290",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-10710",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}}",
+    "prediction": "__invalid__"
+  },
+  {
+    "id": "ru-77035",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-86620",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-17415",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-70415",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-38117",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-16475",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-06025",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-45844",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-20523",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-47492",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-21161",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-14410",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-36148",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-46390",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-33058",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-30530",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-77303",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-60509",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-50805",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-47539",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-01545",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-76105",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-35316",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-35769",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-16954",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-83872",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-72880",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-71156",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-73814",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-22951",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-65428",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-44481",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"neutral\"}",
+    "prediction": "neutral"
+  },
+  {
+    "id": "ru-17239",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-39708",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-53018",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-57720",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-42820",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-31671",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-64837",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-47379",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-72516",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-51968",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-18819",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-61317",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-74322",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-35726",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-68078",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-73810",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-79821",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-04423",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-53876",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-77746",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-79403",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-51382",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-16375",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-77249",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-49699",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-13554",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-31941",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-35327",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-51859",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-20571",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-60563",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-62033",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-85857",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-71869",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-82338",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-15694",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-10983",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-03235",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-08675",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-84917",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-43181",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-18068",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-62135",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-09629",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-06574",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-79229",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-87426",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-06479",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-62913",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-45005",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-32264",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-85786",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-42693",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-69821",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"positive\"}",
+    "prediction": "positive"
+  },
+  {
+    "id": "ru-49995",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-54581",
+    "true": "neutral",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-83394",
+    "true": "positive",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  },
+  {
+    "id": "ru-14200",
+    "true": "negative",
+    "mode": "few-shot",
+    "field": false,
+    "modified": false,
+    "raw": "{\"label\": \"negative\"}",
+    "prediction": "negative"
+  }
+]
